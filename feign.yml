@@ -3,6 +3,7 @@ server:
 spring:
   application:
     name: feign
+    abc: 123
 eureka:
   client:
     server-url:
