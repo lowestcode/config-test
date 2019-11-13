@@ -3,8 +3,9 @@ server:
 spring:
   application:
     name: feign
-    abc: 123
 eureka:
   client:
     server-url:
       defaultZone: http://localhost:8761/eureka/
+abc: 123
+
